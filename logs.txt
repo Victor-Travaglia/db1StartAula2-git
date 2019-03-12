@@ -1,0 +1,5 @@
+commit ce321ca2c10511bf596c5de4d7dcac19bc504efa
+Author: xxx <victortravaglia8@gmail.com>
+Date:   Tue Mar 12 16:07:02 2019 -0300
+
+    criação do arquivo status.txt com o status do repositório
